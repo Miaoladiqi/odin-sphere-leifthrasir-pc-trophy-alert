@@ -1,0 +1,56 @@
+<Window x:Class="trophy_alert.TrophyToast"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TrophyToast"
+        Width="176" Height="70"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        ResizeMode="NoResize"
+        ShowInTaskbar="False"
+        ShowActivated="False"
+        Topmost="True"
+        WindowStartupLocation="Manual"
+        UseLayoutRounding="True"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="ClearType">
+
+    <Grid x:Name="Root" Background="Transparent">
+        <Grid.RenderTransform>
+            <TranslateTransform x:Name="SlideTransform" />
+        </Grid.RenderTransform>
+
+        <!-- 弹窗底板 -->
+        <Image Source="/Assets/toast_bg.png"
+               Stretch="Fill"
+               RenderOptions.BitmapScalingMode="HighQuality" />
+
+        <!-- 奖杯图标 -->
+        <Image x:Name="TrophyImage"
+               Source="/Assets/trophy_icon.png"
+               Width="62"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Center"
+               Margin="2,0,0,0"
+               Stretch="Uniform"
+               RenderOptions.BitmapScalingMode="HighQuality" />
+
+        <!-- 文字：与图标垂直居中对齐 -->
+        <StackPanel Margin="64,0,6,0" VerticalAlignment="Center">
+            <TextBlock x:Name="TitleText"
+                       FontFamily="Segoe UI, Microsoft YaHei UI"
+                       FontSize="13"
+                       FontWeight="SemiBold"
+                       Foreground="White"
+                       TextTrimming="CharacterEllipsis"
+                       TextOptions.TextRenderingMode="ClearType" />
+
+            <TextBlock x:Name="SubtitleText"
+                       FontFamily="Microsoft YaHei UI"
+                       FontSize="9"
+                       Foreground="#FF959595"
+                       Margin="0,2,0,0"
+                       TextTrimming="CharacterEllipsis" />
+        </StackPanel>
+    </Grid>
+</Window>

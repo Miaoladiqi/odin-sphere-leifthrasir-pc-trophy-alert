@@ -1,0 +1,14 @@
+# Visual Studio / MSBuild
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# 编译产物（默认输出到游戏目录，防止误提交）
+start.exe
+start.pdb
+start.exe.config
+
+# 本地配置（可能含个人路径）
+*.local.json

@@ -1,0 +1,4 @@
+{
+  "showPreviewWindow": false,
+  "comment": "showPreviewWindow = true 时启动会显示预览窗体；false（默认）时程序只在后台监听进度文件，不占任务栏"
+}

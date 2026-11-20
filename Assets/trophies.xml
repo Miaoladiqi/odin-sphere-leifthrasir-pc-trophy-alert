@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<trophyset title="Odin Sphere Leifthrasir">
+  <trophy id="000" type="P" name="Odin Sphere" detail="获得所有奖杯！" />
+  <trophy id="001" type="B" name="女武神" detail="完成关德琳故事的序章" />
+  <trophy id="002" type="B" name="失落的羽翼" detail="完成关德琳故事的第３章" />
+  <trophy id="003" type="B" name="失落的心" detail="完成关德琳故事的第６章" />
+  <trophy id="004" type="B" name="关德琳结局" detail="完成关德琳的故事" />
+  <trophy id="005" type="B" name="诅咒王子历险记" detail="完成柯涅利乌斯故事的序章" />
+  <trophy id="006" type="B" name="瓦伦泰王国的兄妹" detail="完成柯涅利乌斯故事的第３章" />
+  <trophy id="007" type="B" name="祖国的危机" detail="完成柯涅利乌斯故事的第６章" />
+  <trophy id="008" type="B" name="柯涅利乌斯结局" detail="完成柯涅利乌斯的故事" />
+  <trophy id="009" type="B" name="妖精国度的故事" detail="完成梅尔瑟蒂斯故事的序章" />
+  <trophy id="010" type="B" name="三贤者的传闻" detail="完成梅尔瑟蒂斯故事的第３章" />
+  <trophy id="011" type="B" name="准备反攻" detail="完成梅尔瑟蒂斯故事的第６章" />
+  <trophy id="012" type="B" name="梅尔瑟蒂斯结局" detail="完成梅尔瑟蒂斯的故事" />
+  <trophy id="013" type="B" name="死亡与黑暗之剑" detail="完成奥兹华德故事的序章" />
+  <trophy id="014" type="B" name="锒铛入狱" detail="完成奥兹华德故事的第３章" />
+  <trophy id="015" type="B" name="弃子之心" detail="完成奥兹华德故事的第６章" />
+  <trophy id="016" type="B" name="奥兹华德结局" detail="完成奥兹华德的故事" />
+  <trophy id="017" type="B" name="与命运同在" detail="完成薇尔贝特故事的序章" />
+  <trophy id="018" type="B" name="科尔德隆停止运作" detail="完成薇尔贝特故事的第３章" />
+  <trophy id="019" type="B" name="即便形貌已不复存" detail="完成薇尔贝特故事的第６章" />
+  <trophy id="020" type="B" name="薇尔贝特结局" detail="完成薇尔贝特的故事" />
+  <trophy id="021" type="B" name="六眼之兽狩猎者" detail="以柯涅利乌斯击破达可巴之兽" />
+  <trophy id="022" type="B" name="冥府之王讨伐者" detail="以奥兹华德击破卡隆" />
+  <trophy id="023" type="B" name="灼热消去者" detail="以梅尔瑟蒂斯击破欧尼基斯" />
+  <trophy id="024" type="B" name="大锅抑制者" detail="以薇尔贝特击破科尔德隆" />
+  <trophy id="025" type="B" name="巨蛇屠戮者" detail="以关德琳击破雷瓦丁" />
+  <trophy id="026" type="S" name="终焉" detail="完成终焉篇章" />
+  <trophy id="027" type="G" name="承继生命者" detail="见证大地的重生" />
+  <trophy id="028" type="G" name="祝福" detail="见证柯涅利乌斯与薇尔贝特的结局" />
+  <trophy id="029" type="B" name="战场大师" detail="在任一战场的所有战斗舞台中获得Ｓ级评价" />
+  <trophy id="030" type="B" name="习得冰枪的所有技能" detail="习得关德琳的所有魔晶技能" />
+  <trophy id="031" type="B" name="习得雷剑的所有技能" detail="习得柯涅利乌斯的所有魔晶技能" />
+  <trophy id="032" type="B" name="习得魔弓的所有技能" detail="习得梅尔瑟蒂斯的所有魔晶技能" />
+  <trophy id="033" type="B" name="习得魔剑的所有技能" detail="习得奥兹华德的所有魔晶技能" />
+  <trophy id="034" type="B" name="习得炎锁的所有技能" detail="习得薇尔贝特的所有魔晶技能" />
+  <trophy id="035" type="B" name="极致调合" detail="调合出最高阶级的魔药" />
+  <trophy id="036" type="B" name="连段霸者" detail="单次连段数突破200连段" />
+  <trophy id="037" type="S" name="尝遍山珍海味" detail="尝过莫瑞的外烩餐厅中的所有料理" />
+  <trophy id="038" type="B" name="聊胜于无的抵抗" detail="承受5次曼陀罗草的攻击" />
+  <trophy id="039" type="B" name="凝聚之力" detail="吸收的魔素总数超过1000" />
+  <trophy id="040" type="B" name="谢幕" detail="在谢幕时收下硬币" />
+  <trophy id="041" type="S" name="习得所有能力" detail="习得任一角色的所有能力" />
+  <trophy id="042" type="G" name="埃里恩之主" detail="完成旋转翻腾的世界狭缝" />
+  <trophy id="043" type="B" name="埃里恩大陆便条" detail="首次获得文本" />
+  <trophy id="044" type="B" name="埃里恩大陆手册" detail="搜集的文本数量达到10份" />
+  <trophy id="045" type="B" name="埃里恩大陆资料集" detail="搜集的文本数量达到30份" />
+  <trophy id="046" type="B" name="埃里恩大陆事典" detail="搜集的文本数量达到50份" />
+  <trophy id="047" type="G" name="埃里恩大陆大百科" detail="搜集所有文本" />
+</trophyset>

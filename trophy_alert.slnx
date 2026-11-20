@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="trophy_alert.csproj" Id="46647826-15f7-49fd-9c40-411b89ffce0e">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+</Solution>
